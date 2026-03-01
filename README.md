@@ -3290,6 +3290,7 @@ _Plugin for text editors and IDEs._
 - [gotestdox](https://github.com/bitfield/gotestdox) - Show Go test results as readable sentences.
 - [gothanks](https://github.com/psampaz/gothanks) - GoThanks automatically stars your go.mod github dependencies, sending this way some love to their maintainers.
 - [gotutor](https://github.com/ahmedakef/gotutor) - Online Go Debugger & Visualizer.
+- [govisual](https://github.com/doganarif/govisual) - Zero-config, pure-Go HTTP request visualizer & debugger for local Go web development.
 - [igo](https://github.com/rocketlaunchr/igo) - An igo to go transpiler (new language features for Go language!)
 - [lensm](https://github.com/loov/lensm) - Go assembly and source viewer.
 - [modver](https://github.com/bobg/modver) - Compare two versions of a Go module to check the version-number change required (major, minor, or patchlevel), according to [semver](https://semver.org/) rules.
