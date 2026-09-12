@@ -270,6 +270,7 @@ _Libraries for manipulating audio and music._
 - [go-resample](https://github.com/gojargo/go-resample) - Pure-Go (no cgo) audio sample-rate converter with sinc, linear, and zero-order-hold converters.
 - [go-wav](https://github.com/tphakala/go-wav) - Pure-Go WAV/RIFF reader and writer with RF64 and BW64 support for files larger than 4 GiB.
 - [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
+- [gocue](https://github.com/iSerganov/gocue) - Audio analysis CLI that detects cue-in, cue-out, and overlay points and measures EBU R128 loudness, emitting JSON for Liquidsoap.
 - [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
 - [id3v2](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
 - [malgo](https://github.com/gen2brain/malgo) - Mini audio library.
